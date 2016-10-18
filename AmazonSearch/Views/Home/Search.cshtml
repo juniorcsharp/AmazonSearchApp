@@ -11,7 +11,7 @@
 
 <select id="currencies"></select>
 
-<input id="changeCurrency" onclick="changeCurrency()" type="button" value="Change currency" />
+<input id="changeCurrency" type="button" value="Change currency" />
 
 
 <h2>Search for @ViewBag.Keyword</h2>
@@ -21,7 +21,7 @@
     {
         if (item.Id < 14)
         {
-            <div id="item">
+            <div id="item"class="item">
                 <h2>@item.Id) @item.Title</h2>
                 <img src="@item.SmallImage" alt="Image is missing" />
 
@@ -31,7 +31,7 @@
                 }
                 else
                 {
-                    <p>New items price:<div id="newPrice">@item.NewPrice</div><div id="currencyCode">@item.CurrencyCode</div></p>
+                    <p>New items price:<div id="newPrice@(item.Id)">@item.NewPrice</div><div id="currencyCode" class="currencyCode">@item.CurrencyCode</div></p>
 
                 }
 
@@ -41,7 +41,7 @@
                 }
                 else
                 {
-                    <p>Used items price:<div id="usedPrice">@item.UsedPrice</div><div id="currencyCode">@item.CurrencyCode</div></p>
+                    <p>Used items price:<div id="usedPrice@(item.Id)">@item.UsedPrice</div><div id="currencyCode" class="currencyCode">@item.CurrencyCode</div></p>
                 }
 
                 <p><a href="@(item.DetailPageURL)">Details</a></p>
