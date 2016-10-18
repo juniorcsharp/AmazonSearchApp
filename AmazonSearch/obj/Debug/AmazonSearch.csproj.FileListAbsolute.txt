@@ -1,0 +1,160 @@
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\ApplicationInsights.config
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\roslyn\csc.exe
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\roslyn\vbc.exe
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\roslyn\VBCSCompiler.exe
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\AmazonSearch.dll.config
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\AmazonSearch.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\AmazonSearch.pdb
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Antlr3.Runtime.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.Web.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.ApplicationInsights.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Newtonsoft.Json.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Helpers.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Mvc.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Optimization.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Razor.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\System.Web.WebPages.Deployment.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\System.Web.WebPages.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\System.Web.WebPages.Razor.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\WebGrease.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.Web.xml
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.ApplicationInsights.xml
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Helpers.xml
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Mvc.xml
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Optimization.xml
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Razor.xml
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\System.Web.WebPages.xml
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\System.Web.WebPages.Deployment.xml
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\System.Web.WebPages.Razor.xml
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Antlr3.Runtime.pdb
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Newtonsoft.Json.xml
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\obj\Debug\AmazonSearch.dll
+c:\users\ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\obj\Debug\AmazonSearch.pdb
+C:\Users\Ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\AmazonSearch.dll.CodeAnalysisLog.xml
+C:\Users\Ezekotiki\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\AmazonSearch.dll.lastcodeanalysissucceeded
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\ApplicationInsights.config
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\csc.exe
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\System.Collections.Immutable.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\vbc.exe
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\VBCSCompiler.exe
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\VBCSCompiler.exe.config
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\AmazonSearch.dll.config
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\AmazonSearch.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\AmazonSearch.pdb
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Antlr3.Runtime.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.DependencyCollector.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.Web.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.WindowsServer.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.ApplicationInsights.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.Web.Infrastructure.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Newtonsoft.Json.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Helpers.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Mvc.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Optimization.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Razor.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.WebPages.Deployment.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.WebPages.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.WebPages.Razor.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\WebGrease.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.DependencyCollector.xml
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.Web.xml
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.WindowsServer.xml
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.ApplicationInsights.xml
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Helpers.xml
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Mvc.xml
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Optimization.xml
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Razor.xml
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.WebPages.xml
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.WebPages.Deployment.xml
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.WebPages.Razor.xml
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Antlr3.Runtime.pdb
+D:\Programming\Projects\AmazonSearch\AmazonSearch\bin\Newtonsoft.Json.xml
+D:\Programming\Projects\AmazonSearch\AmazonSearch\obj\Debug\AmazonSearch.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\AmazonSearch\AmazonSearch\obj\Debug\AmazonSearch.dll
+D:\Programming\Projects\AmazonSearch\AmazonSearch\obj\Debug\AmazonSearch.pdb
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\ApplicationInsights.config
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\csc.exe
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\System.Collections.Immutable.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\vbc.exe
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\VBCSCompiler.exe
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\roslyn\VBCSCompiler.exe.config
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\AmazonSearch.dll.config
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\AmazonSearch.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\AmazonSearch.pdb
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Antlr3.Runtime.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.DependencyCollector.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.Web.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.WindowsServer.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.ApplicationInsights.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.Web.Infrastructure.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Newtonsoft.Json.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Helpers.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Mvc.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Optimization.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Razor.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.WebPages.Deployment.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.WebPages.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.WebPages.Razor.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\WebGrease.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.DependencyCollector.xml
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.Web.xml
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.AI.WindowsServer.xml
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.ApplicationInsights.xml
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Helpers.xml
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Mvc.xml
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Optimization.xml
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.Razor.xml
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.WebPages.xml
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.WebPages.Deployment.xml
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\System.Web.WebPages.Razor.xml
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Antlr3.Runtime.pdb
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\bin\Newtonsoft.Json.xml
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\obj\Debug\AmazonSearch.csprojResolveAssemblyReference.cache
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\obj\Debug\AmazonSearch.dll
+D:\Sawuwecka\Programming\Projects\AmazonSearch\AmazonSearch\obj\Debug\AmazonSearch.pdb

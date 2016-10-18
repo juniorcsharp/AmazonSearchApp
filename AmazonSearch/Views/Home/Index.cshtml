@@ -1,0 +1,11 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<div class="jumbotron">
+    <h1>Amazon Product Search</h1>
+    <p class="lead">Please type, what do You want to search</p>
+    <form action="/Home/Search" method="post" >
+    <input id="keyword" name="keyword" type="text" placeholder="Enter Your keyword..."/>
+    <input class="btn btn-primary btn-lg" type="submit" value="Search &raquo;"/>
+    </form>
+</div>

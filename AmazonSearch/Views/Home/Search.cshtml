@@ -1,0 +1,57 @@
+﻿@model IEnumerable<AmazonSearch.Models.SearchedItem>
+
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Scripts.Render("~/scripts/jquery-1.10.2.js")
+@Scripts.Render("~/scripts/jquery.unobtrusive-ajax.js")
+@Scripts.Render("~/scripts/currencyRateAndChangeScript.js")
+
+<select id="currencies"></select>
+
+<input id="changeCurrency" onclick="changeCurrency()" type="button" value="Change currency" />
+
+
+<h2>Search for @ViewBag.Keyword</h2>
+@try
+{
+    foreach (var item in Model)
+    {
+        if (item.Id < 14)
+        {
+            <div id="item">
+                <h2>@item.Id) @item.Title</h2>
+                <img src="@item.SmallImage" alt="Image is missing" />
+
+                @if (item.NewPrice == 0)
+                {
+                    <p>There is no new item for sale</p>
+                }
+                else
+                {
+                    <p>New items price:<div id="newPrice">@item.NewPrice</div><div id="currencyCode">@item.CurrencyCode</div></p>
+
+                }
+
+                @if (item.UsedPrice == 0)
+                {
+                    <p>There is no used item for sale</p>
+                }
+                else
+                {
+                    <p>Used items price:<div id="usedPrice">@item.UsedPrice</div><div id="currencyCode">@item.CurrencyCode</div></p>
+                }
+
+                <p><a href="@(item.DetailPageURL)">Details</a></p>
+                <p><a href="@(item.CustomerReviewURL)">Customer reviews</a></p>
+            </div>
+            <hr>
+        }
+    }
+}
+catch (Exception ex)
+{
+    <h2>@ex.ToString()</h2>
+}
